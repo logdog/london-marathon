@@ -9,6 +9,6 @@ If the race committe set up radar guns at different locations along the race cou
 
 ![Distribution of all runner's speeds at checkpoints](CheckpointDist.png)
 
-If we were to make a histogram of a particular runner's speed throughout the entire marathon, it would be different than another runner's histogram because different runners have different average speeds, as shown below. Since the histograms below do not match up with the histograms above, the random process is non-ergodic.
+If we were to make a histogram of a particular runner's speed throughout the entire marathon, it would be different than another runner's histogram because different runners have different average speeds, as shown below. Since the histograms below have different means, we can say that the random process is _not ergodic in the mean_.
 
 ![Distribution of a particular runner's speed](RunnerDist.png)
